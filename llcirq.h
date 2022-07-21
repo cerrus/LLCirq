@@ -1,6 +1,6 @@
 // Copyright 2022 Quillian Rutherford
 // A simplistic lockless circular queue.
-// MIT license, see License.txt at MIT No Attribution
+// MIT license, see License.txt at https://github.com/cerrus/LLCirq
 
 //Need memcpy
 #include <string.h>
